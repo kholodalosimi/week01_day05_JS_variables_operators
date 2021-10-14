@@ -1,5 +1,3 @@
-# week01_day05_JS_variables_operators
-
 # Variables and Primitive Data Types
 
 ## The Fortune Teller
