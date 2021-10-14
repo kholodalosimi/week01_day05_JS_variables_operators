@@ -4,7 +4,7 @@
 
 Why pay a fortune teller when you can just program your fortune yourself?
 
-Write a function that takes the number of children, partner's name, geographic location, and job title as inputs.
+Write a program that takes the number of children, partner's name, geographic location, and job title as inputs.
 Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 
 ---
